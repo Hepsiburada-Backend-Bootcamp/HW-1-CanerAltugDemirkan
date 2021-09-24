@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caner\\Desktop\\Homework1\\Homework1\\Homework1.csproj",
+      "projectUniqueName": "C:\\Users\\caner\\Desktop\\Homework1 - Kopya\\Homework1\\Homework1.csproj",
       "projectName": "Homework1",
-      "projectPath": "C:\\Users\\caner\\Desktop\\Homework1\\Homework1\\Homework1.csproj",
+      "projectPath": "C:\\Users\\caner\\Desktop\\Homework1 - Kopya\\Homework1\\Homework1.csproj",
       "packagesPath": "C:\\Users\\caner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caner\\Desktop\\Homework1\\Homework1\\obj\\",
+      "outputPath": "C:\\Users\\caner\\Desktop\\Homework1 - Kopya\\Homework1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caner\\AppData\\Roaming\\NuGet\\NuGet.Config",

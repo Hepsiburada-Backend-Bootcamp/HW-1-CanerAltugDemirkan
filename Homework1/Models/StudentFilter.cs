@@ -9,16 +9,12 @@ namespace Homework1.Models
     public class StudentFilter
     {
         public int Id { get; set; }
-        [RegularExpression("[0-9]{10}")]
         public string Number { get; set; }
 
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        [RegularExpression("[0-9]{11}")]
         public string TcNo { get; set; }
-        [GenderValidation]
         public string Gender { get; set; }
-        [DepartmentValidation]
         public string Department { get; set; }
         public string Sortby { get; set; }
 
