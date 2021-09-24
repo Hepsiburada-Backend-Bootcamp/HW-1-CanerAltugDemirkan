@@ -104,12 +104,12 @@ namespace Homework1.Controllers
             var ToUpdate = _list.FirstOrDefault(x => x.Id == UpdateStudent.Id);
             if (ToUpdate != null)
             {
-                ToUpdate.Number.Equals(UpdateStudent.Number != null ? ToUpdate.Number : UpdateStudent.Number);
-                ToUpdate.FirstName.Equals(UpdateStudent.FirstName != null ? ToUpdate.FirstName : UpdateStudent.FirstName);
-                ToUpdate.LastName.Equals(UpdateStudent.LastName != null ? ToUpdate.LastName : UpdateStudent.LastName);
-                ToUpdate.TcNo.Equals(UpdateStudent.TcNo != null ? ToUpdate.TcNo : UpdateStudent.TcNo);
-                ToUpdate.Gender.Equals(UpdateStudent.Gender != null ? ToUpdate.Gender : UpdateStudent.Gender);
-                ToUpdate.Department.Equals(UpdateStudent.Department != null ? ToUpdate.Department : UpdateStudent.Department);
+                ToUpdate.Number = UpdateStudent.Number != null ? UpdateStudent.Number : ToUpdate.Number;
+                ToUpdate.FirstName = UpdateStudent.FirstName != null ? UpdateStudent.FirstName : ToUpdate.FirstName;
+                ToUpdate.LastName = UpdateStudent.LastName != null ? UpdateStudent.LastName : ToUpdate.LastName;
+                ToUpdate.TcNo = UpdateStudent.TcNo != null ? UpdateStudent.TcNo : ToUpdate.TcNo;
+                ToUpdate.Gender = UpdateStudent.Gender != null ? UpdateStudent.Gender : ToUpdate.Gender;
+                ToUpdate.Department = UpdateStudent.Department != null ? UpdateStudent.Department : ToUpdate.Department;
                 return Ok(ToUpdate);
             }
             string error = $"There is no record with id = {UpdateStudent.Id}";

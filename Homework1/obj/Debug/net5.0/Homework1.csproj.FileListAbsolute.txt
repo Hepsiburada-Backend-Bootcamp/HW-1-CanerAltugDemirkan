@@ -51,3 +51,29 @@ C:\Users\caner\Desktop\Homework1\Homework1\obj\Debug\net5.0\ref\Homework1.dll
 C:\Users\caner\Desktop\Homework1\Homework1\obj\Debug\net5.0\Homework1.pdb
 C:\Users\caner\Desktop\Homework1\Homework1\obj\Debug\net5.0\Homework1.genruntimeconfig.cache
 C:\Users\caner\Desktop\Homework1\Homework1\obj\Debug\net5.0\Homework1.csproj.AssemblyReference.cache
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\appsettings.json
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\Data\Students.json
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\Homework1.exe
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\Homework1.deps.json
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\Homework1.runtimeconfig.json
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\Homework1.runtimeconfig.dev.json
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\Homework1.dll
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\ref\Homework1.dll
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\Homework1.pdb
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.csproj.AssemblyReference.cache
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.AssemblyInfoInputs.cache
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.AssemblyInfo.cs
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\staticwebassets\Homework1.StaticWebAssets.Manifest.cache
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\staticwebassets\Homework1.StaticWebAssets.xml
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\scopedcss\bundle\Homework1.styles.css
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.RazorTargetAssemblyInfo.cache
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.csproj.CopyComplete
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.dll
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\ref\Homework1.dll
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.pdb
+C:\Users\caner\Desktop\Homework1 - Kopya\Homework1\obj\Debug\net5.0\Homework1.genruntimeconfig.cache
